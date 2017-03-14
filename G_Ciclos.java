@@ -8,11 +8,15 @@ public class G_Ciclos {
 		int i = 0;
 		
 		System.out.println("Serie de Números Impares: ");
-		for(i=1 ; i<=100; i+=2){
-			System.out.print(i +", ");
-			if(i==99){
-				System.out.println(i +".");
+		for(i=1 ; i<=100; i++){
+			if(i%2!=0){
+				System.out.print(i +",");
+				
+				if(i==99)
+					System.out.print(i +".");
 			}
+			
+			//Serie de Fibonacci
 		}
 	}
 }
