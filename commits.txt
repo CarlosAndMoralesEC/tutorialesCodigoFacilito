@@ -1,0 +1,11 @@
+commit abcdae289ebe1a209239c2877039fa0a01005aab
+Author: Carlos M <carlos_morales1096@hotmail.com>
+Date:   Tue Mar 14 18:23:35 2017 -0500
+
+    Serie Impar con Módulo
+
+commit 12109ed65b95c7bfa6b570337e4f4593c4d81e3e
+Author: Carlos M <carlos_morales1096@hotmail.com>
+Date:   Tue Mar 14 18:19:09 2017 -0500
+
+    Día 1

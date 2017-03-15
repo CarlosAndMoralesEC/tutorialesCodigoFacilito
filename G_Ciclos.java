@@ -17,6 +17,14 @@ public class G_Ciclos {
 			}
 			
 			//Serie de Fibonacci
+			//0,1,1,2,3,5,8,13,21,...
+			int primero = 0, segundo = 1, suma = 0, j;
+			for( j=1; j<=6; j++){
+				suma = primero + segundo;
+				primero = segundo;
+				segundo = suma;	
+			}
+			System.out.println("La suma en la posición: " +(j+1) +"\nes de: " +suma);			
 		}
 	}
 }
